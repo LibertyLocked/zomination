@@ -3,7 +3,7 @@ zomination (archived)
 
 XNA game for Xbox 360 and Windows
 
-This game is released and updated. Source code is archived.
+This game is released and updated to 1.1. Source code is archived.
 
 Marketplace link:
 
