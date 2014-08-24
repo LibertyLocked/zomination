@@ -24,7 +24,6 @@ namespace zomination
         AudioEM audioEM;
 
         ScreenManager screenManager;
-        ScreenFactory screenFactory;
 
         public GraphicsDeviceManager Graphics
         {
@@ -50,10 +49,6 @@ namespace zomination
             Guide.SimulateTrialMode = true;
 #endif
 #endif
-
-            // Create the screen factory and add it to the Services
-            screenFactory = new ScreenFactory();
-            Services.AddService(typeof(IScreenFactory), screenFactory);
 
             // Create the screen manager component.
             screenManager = new ScreenManager(this);
