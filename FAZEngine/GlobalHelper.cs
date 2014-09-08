@@ -49,7 +49,7 @@ namespace FAZEngine
         /// </summary>
         public static bool IsRenderNative
         {
-            get { return (GameWidth == RenderWidth && GameHeight == RenderHeight); }
+            get { return (GameWidth == WindowWidth && GameHeight == WindowHeight); }
         }
 
         public static Vector2 RenderOrigin

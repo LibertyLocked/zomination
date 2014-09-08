@@ -41,7 +41,6 @@
     <DefineConstants>DEBUG;TRACE;XBOX;XBOX360</DefineConstants>
     <XnaCompressContent>true</XnaCompressContent>
   </PropertyGroup>
-  <ItemGroup />
   <ItemGroup>
     <Compile Include="CollisionMath.cs" />
     <Compile Include="Environment\Land.cs" />
