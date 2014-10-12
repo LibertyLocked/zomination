@@ -115,6 +115,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="mods\" />
     <Folder Include="movies\" />
   </ItemGroup>
   <ItemGroup>
@@ -156,14 +157,6 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
     </Compile>
-    <None Include="mods\gtMoneyBonus.fazemod">
-      <Name>gtMoneyBonus</Name>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="mods\gtSlowMoBonus.fazemod">
-      <Name>gtSlowMoBonus</Name>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Include="specs\gunspecs.txt">
       <Name>gunspecs</Name>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -342,6 +335,13 @@
       <Name>zombie2</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="shaders\curvature.fx">
+      <Name>curvature</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
