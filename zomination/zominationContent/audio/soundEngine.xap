@@ -255,7 +255,7 @@ Wave Bank
     Wave
     {
         Name = M4A1_reload;
-        File = D:\VC# Projects\zomination\zomination\zominationContent\audio\M4A1_reload.wav;
+        File = M4A1_reload.wav;
         Build Settings Last Modified Low = 1163237435;
         Build Settings Last Modified High = 30335633;
 
@@ -278,7 +278,7 @@ Wave Bank
     Wave
     {
         Name = M1911_fire;
-        File = D:\VC# Projects\zomination\zomination\zominationContent\audio\M1911_fire.wav;
+        File = M1911_fire.wav;
         Build Settings Last Modified Low = 1163237435;
         Build Settings Last Modified High = 30335633;
 
@@ -301,7 +301,7 @@ Wave Bank
     Wave
     {
         Name = M1911_reload;
-        File = D:\VC# Projects\zomination\zomination\zominationContent\audio\M1911_reload.wav;
+        File = M1911_reload.wav;
         Build Settings Last Modified Low = 1163247425;
         Build Settings Last Modified High = 30335633;
 
@@ -324,7 +324,7 @@ Wave Bank
     Wave
     {
         Name = M4A1_fire;
-        File = D:\VC# Projects\zomination\zomination\zominationContent\audio\M4A1_fire.wav;
+        File = M4A1_fire.wav;
         Build Settings Last Modified Low = 1163257429;
         Build Settings Last Modified High = 30335633;
 
@@ -347,7 +347,7 @@ Wave Bank
     Wave
     {
         Name = R870MCS_fire;
-        File = D:\VC# Projects\zomination\zomination\zominationContent\audio\R870MCS_fire.wav;
+        File = R870MCS_fire.wav;
         Build Settings Last Modified Low = 1163257429;
         Build Settings Last Modified High = 30335633;
 
@@ -370,7 +370,7 @@ Wave Bank
     Wave
     {
         Name = R870MCS_reload;
-        File = D:\VC# Projects\zomination\zomination\zominationContent\audio\R870MCS_reload.wav;
+        File = R870MCS_reload.wav;
         Build Settings Last Modified Low = 1163267429;
         Build Settings Last Modified High = 30335633;
 
