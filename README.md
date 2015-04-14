@@ -20,3 +20,15 @@ This game is released and updated to 1.1. Source code is archived.
 Marketplace link:
 
 http://marketplace.xbox.com/en-US/Product/Zomination/66acd000-77fe-1000-9115-d80258550de2
+
+
+# FAZEngine
+##Key features:
+* Split screen mode
+* Cameras on 2D space
+* Realistic ballistics and hit detection
+* Realistic weapon handling
+* Physics based particle system
+* Time distortion (e.g. slow motion)
+* Drivable and destoryable vehicles
+* Fully support Xbox 360
